@@ -71,10 +71,10 @@ Here are screenshots showing the working DApp:
 ![Transfer MetaMask](screenshots/Transfer_meta.png)
 
 ### 5. Transfer Submitted (Success 1)
-![Transfer Successful 1](screenshots/transfer_successful1.png)
+![Transfer Successful 1](screenshots/transfer_succesful1.png)
 
 ### 6. Transfer Submitted (Success 2)
-![Transfer Successful 2](screenshots/transfer_successful2.png)
+![Transfer Successful 2](screenshots/transfer_succesful2.png)
 
 ### 7. Transfer Confirmed in MetaMask
 ![Transfer MetaMask](screenshots/transfer_metamask.png)
