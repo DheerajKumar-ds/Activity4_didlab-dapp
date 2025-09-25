@@ -4,7 +4,7 @@ This repository contains the tiny DApp UI built for the **CampusCredit (CAMP)** 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The goal of this activity is to build a single-file web application that:
 - Connects to **MetaMask** and switches to the DIDLab network
 - Loads the ERC-20 token metadata (name, symbol, decimals)
@@ -14,7 +14,7 @@ The goal of this activity is to build a single-file web application that:
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 - **Team:** 01  
 - **RPC URL:** `https://hh-01.didlab.org`  
 - **Chain ID:** `31337`  
@@ -25,7 +25,7 @@ The goal of this activity is to build a single-file web application that:
 
 ---
 
-## ▶️ Running the DApp
+## Running the DApp
 1. Clone this repo:
    ```bash
    git clone <your-repo-url>
@@ -46,7 +46,7 @@ The goal of this activity is to build a single-file web application that:
 
 ---
 
-## 🖥 Usage
+## Usage
 1. **Connect & Switch Network** → Approve MetaMask prompt.  
 2. **Load Token** → Displays name, symbol, decimals, and balance.  
 3. **Refresh Balance** → Manually update balance.  
@@ -55,10 +55,8 @@ The goal of this activity is to build a single-file web application that:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 Here are screenshots showing the working DApp:
-
-## 📸 Screenshots
 
 ### 1. Smart Contract Deployment
 ![Deploy App](screenshots/deploy_app.png)
@@ -87,7 +85,7 @@ Here are screenshots showing the working DApp:
 
 ---
 
-## ✅ Submission
+## Submission
 - Token Address: `0x5fbdb2315678afecb367f032d93f642f64180aa3`  
 - DApp UI: `index.html`  
 - Evidence: Screenshots in repo  
